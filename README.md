@@ -137,7 +137,6 @@ jogo.exe
 │   ├── combate.c/h     # combate por turnos
 │   ├── progressao.c/h  # XP, nível, bônus aleatório e avanço de fase
 │   └── entrada.c/h     # leitura segura de entradas
-├── images/             # imagens dos personagens e monstros
 └── video/              # link do vídeo
 ```
 
@@ -156,8 +155,5 @@ Os status são atualizados sempre por funções que recebem o endereço da struc
 ### Robustez
 Toda entrada é lida por `lerOpcao()` (usa `fgets` + `strtol`): letras, números fora do menu e linhas em branco são recusados e o jogo não trava, nem mesmo com fim de entrada (EOF).
 
-## Imagens
-Preencha aqui com as imagens salvas em `images/personagens` e `images/monstros`, a ferramenta de IA e o prompt usados (opcional).
-
 ## Vídeo de demonstração
-[Assista aqui](COLE_O_LINK_DO_VIDEO)
+[Assista aqui](https://youtu.be/GrCKfZEdieQ)
