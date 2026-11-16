@@ -1,7 +1,6 @@
 # The Last Survivors
 
-**Aluno:** [SEU NOME COMPLETO]
-**Matrícula:** [SUA MATRÍCULA]
+**Aluno:** Iamily Felix De Souza
 **Disciplina:** DCT1106 – Programação (BSI/UFRN) – 2026.2
 **Padrão da linguagem:** C99 (compila com `gcc -std=c99`)
 
